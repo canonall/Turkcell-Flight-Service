@@ -1,0 +1,4 @@
+Pegasus;AirBus;Istanbul;Izmir;08:00
+THY;AirBus;Antalya;Istanbul;11:00
+OnurAir;Boeng;Ankara;Trabzon;22:00
+Pegasus;Boeng;Istanbul;Urfa;10:00
