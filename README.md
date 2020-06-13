@@ -13,7 +13,7 @@ Genç Yetenek Projesi
 
 -Proje http://localhost:8080/rest/ base url'i üzerinden çalıştırılmıştır.
 
--"?searchCriteria=" alanına, hangi alanda filtreleme yapılacak ise o alanın ismi verilmelidir. ("companyName", "planeModel", "flightFrom", "flightTo", "takeOffTime")
+-"?searchCriteria=" alanına, hangi alanda filtreleme yapılacak ise o alanın ismi verilmelidir. ("companyName", "planeModel", "flightFrom", "flightTo", "takeOffTime", "all")
 
 -"searchKey=" alanına istenilen key girilmelidir. O key'i içeren sonuçlar cevap olarak dönecektir.
 
